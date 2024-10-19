@@ -1,7 +1,7 @@
-# 🇪🇸 [Chatbot](#chatbot-)
+# 🇪🇸 [Chat](#chat-)
 # 🇬🇧 [Chatbot](#chatbot-)
 
-# Chatbot 🇪🇸
+# Chat 🇪🇸
 
 Chatbot diseñado para facilitar la comunicación en tiempo real entre cliente y servidor. 
 
